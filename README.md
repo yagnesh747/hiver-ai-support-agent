@@ -78,19 +78,19 @@ Try a single message interactively:
 python main.py
 ```
 
-## Headline results (golden set, n=200)
+### Headline result and important caveat
 
-| Metric | Result |
-|---|---:|
-| Intent accuracy | **80.0%** |
-| Trivial majority baseline | 38.0% |
-| Simple keyword baseline | 36.0% |
-| Leakage-safe average Top-1 retrieval similarity | **0.5234** |
-| Leakage-safe median Top-1 similarity | **0.3924** |
-| Action (auto-handle vs. escalate) accuracy | 63.0% |
-| Response-quality audit, overall (AI-assisted, n=50) | 3.79 / 5 |
+Intent classification achieved **80.0% accuracy** on the 200-example evaluation set, compared with **38.0%** for the majority-class baseline and **36.0%** for the keyword baseline.
 
-See **REPORT.md** for the full breakdown, the two-baseline comparison, the leakage explanation ("what is misleading about my headline number"), and the top 5 failure modes with real examples.
+However, intent accuracy is not the complete system result:
+
+- Action accuracy: **63.0%**
+- Leakage-safe average retrieval similarity: **0.5234**
+- AI-assisted response-quality audit overall: **3.79/5**
+- Responses scoring at least 4/5: **52.0%**
+- Responses scoring below 3/5: **26.0%**
+
+Therefore, the 80.0% intent number should not be interpreted as an 80% end-to-end support-agent success rate.
 
 ## Known limitations (see REPORT.md for full detail)
 
@@ -121,3 +121,10 @@ hiver-ai-support-agent/
 ├── REPORT.md                       # full write-up, baselines, failure modes
 └── DECISIONS.md                    # non-obvious design decisions
 ```
+### Evaluation-labeling and LLM-judge transparency
+
+The 200-example golden evaluation set contains AI-assisted draft labels and should not be interpreted as fully independently hand-labelled ground truth. Human review of the labels is still required.
+
+For response quality, 50 examples were scored in an AI-assisted quality audit using the rubric columns for relevance, helpfulness, grounding, action appropriateness, and overall quality. A paid external LLM API was not available during development, so this audit is **not presented as an independent LLM-as-judge evaluation**.
+
+Accordingly, no judge-human agreement statistic is claimed. Measuring independent human ratings and agreement with an LLM judge is a planned next step.

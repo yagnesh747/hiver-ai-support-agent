@@ -1,0 +1,220 @@
+tweet_id,text,intent,expected_action,label_notes
+598458,@117176 @134015 @AskAmex @AppleSupport Makes no sense.  Your page at https://t.co/qI8rCYzuEt shows an Advantage Citibank card working with Apple Pay,OTHER,ANSWER,AI-assisted draft label — human review required.
+928785,@AppleSupport and @116333 ignore my tweets on poor iOS 11 battery life. Great service.,BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+898800,Meu iPhone esta bugadao. Que merda é essa @115858 @AppleSupport @115858,DEVICE_PERFORMANCE,TROUBLESHOOT,AI-assisted draft label — human review required.
+826276,@316815 @115858 @AppleSupport Not only that. Everything lags so bad. Including text messages,DEVICE_PERFORMANCE,TROUBLESHOOT,AI-assisted draft label — human review required.
+188532,@AppleSupport Saw link. Have DM you.,OTHER,ESCALATE,AI-assisted draft label — human review required.
+519217,@AppleSupport Can’t boot into safe mode &amp; the problem persists,DEVICE_PERFORMANCE,TROUBLESHOOT,AI-assisted draft label — human review required.
+266072,@AppleSupport Upgraded 6 plus to iOS 11 now my touchscreen is broken. Can't go back to 10.3.3 or afford the $150 replacement. Please advise,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+315935,"Two weeks in a row now, Mac OS Sierra just gives me a cold hard crash on my rMBP. ""Crashes just work"". @applesupport @191435",IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+919196,@338208 @AppleSupport Thanks,OTHER,ANSWER,AI-assisted draft label — human review required.
+309271,@AppleSupport @115858 my Iphone 7 has become very slow since the last update. It reminds me now of a old dial up computer. What has this update done 😫😫,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+45599,@AppleSupport hello! I have a strange activity app glitch. It shows my average calories in a day as 18373. https://t.co/GINlpPlVmp,APPS,TROUBLESHOOT,AI-assisted draft label — human review required.
+549598,Can I use Apple Pay Cash in the UK? @AppleSupport,OTHER,ANSWER,AI-assisted draft label — human review required.
+406624,@AppleSupport Thanks but what if you didn't mean to do it. It just tells you how to report junk. Not how to undo it. 😬,OTHER,ANSWER,AI-assisted draft label — human review required.
+941455,@AppleSupport can’t install the last update on my iPad.... how many times in a month? Shame this iOS...,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+794419,"Love this new iOS 11 update. Phone keeps freezing, apps keep shutting &amp; my battery goes down in chunks 👍🏼🙃🤙🏼🤙🏼 @115858 @AppleSupport @O2",BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+930940,"@AppleSupport My phone keeps wiping my camera roll, loading it all back up again, then restarting itself.Sone this a good 13 times.h e l p",ICLOUD_BACKUP,TROUBLESHOOT,AI-assisted draft label — human review required.
+388934,"@AppleSupport please fix this, my iPhone been doing this all day https://t.co/WhLt2GqjOG",OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+996757,"@AppleSupport Sent you a message hope it get sorted soon, I really don’t want to fix it myself by buying a @125607",OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+817007,Dear @AppleSupport next time fix the bugs first.  This is frustrating me!,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+110862,@AppleSupport Yea I believe so it’s a bit off,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+855416,@AppleSupport ever since latest update podcasts don’t play continuously?,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+143571,@AppleSupport Also the front camera seems to not work either now. Here is a screen shot https://t.co/mqitfembKY,HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+354078,"@AppleSupport Hi, how do I inquire about being double billed for a purchase on Apple TV? #help",OTHER,ESCALATE,AI-assisted draft label — human review required.
+681994,"@AppleSupport No,continue after iOS  11 first update",IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+945535,@AppleSupport last iOS upgrade just made my iPhone slower and it heats to much. Seems it has to work more and the battery runs out faster,BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+872521,@AppleSupport All this new update has done is fuck my phone up.. Problems with home screen now no time &amp; battery percentage?? https://t.co/Gx8X3d4Fot,BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+584761,"Sorry, @AppleSupport but the #iPhone‘s #battery usage report is absolutely useless if it’s lying to me! What the hell is draining my battery so fast? Got that since the #iOS11 GM release! Betas before have been ok https://t.co/CCrQirE91J",BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+720471,@292433 @198612 @115858 @AppleSupport Mine seems ok now as well. Talked to a guy at apple and he said it could be something updating during activation causing it👌🏼,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+236818,"@AppleSupport @116333 wonder where all the Apple Quality disappeared? Does ""__email__"" works? Sent entire details as none could help - hope to see response",OTHER,ANSWER,AI-assisted draft label — human review required.
+229217,@AppleSupport I never had this issue on iOS 10,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+151440,@115858 @AppleSupport  #iphone #iphonepasscode what the heck is up with new alphanumeric passcode for iphones?? Completely ridiculous when hands dirty or wet and touch wont work! Seriously was this necessary? Do you muck with everything coz there is nothing else to do!!,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+365281,@AppleSupport I’ll give it a try and let you know,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+31899,"After the last update, I cannot hear my phone calls. What is happening? @115858 @AppleSupport",IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+519204,"iPad mini 4 running iOS 11.2 Beta 5,trying to upgrade to Beta 6, but device is saying “ this update cannot be installed because it requires at least 2.64 GB of available storage during installation.” I currently have 2.85 GB available so not sure what’s going on... @AppleSupport",IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+552059,@AppleSupport My dad’s phone &amp; ipad crashes &amp; we can’t even get through the password. We can’t go in it glitches and doesn’t work!,APPLE_ID_ACCOUNT,TROUBLESHOOT,AI-assisted draft label — human review required.
+915214,Has anyone else found the new apple update terrible? My phone keeps freezing arrrrrh!!!! @AppleSupport,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+1025605,@AppleSupport @362688 Send them a DM so they will never reply!!,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+449447,@AppleSupport I've tried sending messages and they seem to send. But for some reason the thread on the watch doesn't update. Should I still contact my carrier?,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+559012,@AppleSupport why my notifications don't fit the dialogue globe? Since iOS update https://t.co/18YunJnQc4,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+821236,"@AppleSupport I know you value your customers..think about my well-being, I can cut my fingers scrolling on this cracked screen  and die with an infection",HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+340934,@AppleSupport I’m getting really tired of looking at this mess when I try to manage iCloud apps w/iOS 11.0.2 &amp; 8 Plus. 😾😾 https://t.co/jJKsAgaju8,ICLOUD_BACKUP,TROUBLESHOOT,AI-assisted draft label — human review required.
+387508,@AppleSupport It’s still not working as it was prior to the update,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+340936,@AppleSupport Thanks. Very frustrating 😾,OTHER,ANSWER,AI-assisted draft label — human review required.
+864426,@AppleSupport iPod 5th generation with ios 9.3.5.,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+981237,"Where my WhatsApp notifications at, @115858? 🙇🏻‍♀️#iOS11  
+@AppleSupport",APPS,TROUBLESHOOT,AI-assisted draft label — human review required.
+851729,"@AppleSupport Thanks for your help, my tired brain finally figured it out and got it restore.",OTHER,ANSWER,AI-assisted draft label — human review required.
+768175,@AppleSupport I did that ..I recommend you fixing the update,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+1001114,"@AppleSupport after updating to iOS 11.0.3, my iPhone 7 will randomly freeze on any app/screen. The buttons won’t even work",HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+86997,"@AppleSupport iOS 11.1.2 on iPad Pro. I’m using different apps. I think one was Procreate, another was Final Fantasy Record Keeper (I think), can’t remember the other one. It happens from time to time but today it happened thrice in such a short period of time.",APPS,TROUBLESHOOT,AI-assisted draft label — human review required.
+265016,My ipod has just frozen on me while playing music (everything else works/loads fine. I can't reboot manually. Any help @AppleSupport?,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+796587,@AppleSupport 11.0.3! Even some apps crash 😒,APPS,TROUBLESHOOT,AI-assisted draft label — human review required.
+1128166,@AppleSupport @385958 Hi. Sent a dm regarding my iPhone system storage taking 8gb of my phones memory while on my other phone it is showing just 2gb. Pls check,OTHER,ESCALATE,AI-assisted draft label — human review required.
+869947,@AppleSupport Y’all shit @115858,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+328083,@AppleSupport since updating to ios11.02I cant connect to itunes or the app store please help,CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+974452,@AppleSupport How do I get to the explorer face on a Series 2?,OTHER,ANSWER,AI-assisted draft label — human review required.
+505073,@AppleSupport We use Family Sharing. We use one Apple ID for all our iTunes purchases but each family member has an iCloud email address.,OTHER,ESCALATE,AI-assisted draft label — human review required.
+960668,"I’m having the exact same issues, even without headphones @AppleSupport https://t.co/3Lmq0WAwci",AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+268233,@AppleSupport PLEASE HALP! 10.13 supplemental update bricked ext dual monitors on mid-2105 retina mbp. Any fix? Google is not helping 💩,HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+354522,@AppleSupport iOS 11.0.3 and all my apps have been updated,APPS,TROUBLESHOOT,AI-assisted draft label — human review required.
+55934,@AppleSupport I’m on the newest version,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+293824,"@AppleSupport As I charge it, the battery goes down!",OTHER,ESCALATE,AI-assisted draft label — human review required.
+887149,Hello @115858 and @AppleSupport I am on my third iPhone 8 and my text messages aren’t sending. Why though?,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+1027008,@AppleSupport @363017 apple has no ethics we should sue him for leaving our phones unusable.,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+1013180,@115948 @AppleSupport why am I being charged R16 for a R10 track,OTHER,ESCALATE,AI-assisted draft label — human review required.
+556192,"@AppleSupport Thanks. The original tones were in my iTunes folder, but seem to have disappeared a few years ago - possibly during an iTunes update. Is there any way I can extract them from my old iPhone?",AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+235012,@AppleSupport Icant turn off wifi since I’ve new ios its always on without my permission and i cant turn of new option with three keypads,CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+709501,"@AppleSupport After installing #iOS11, my phone has been VERY slow and it freezes too often. I have the latest version, and enough storage.",IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+188488,@AppleSupport Just Netflix and none of my streaming apps will stream. Netflix already updated still won’t open or cast.,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+674679,@AppleSupport I got a notification from my iPhone when the airdrop finished and said this video doesn't support this format,CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+1134096,"@AppleSupport | Nothing in my car play is loading. Is there something going on? I can’t even get my maps to load, worked earlier today",OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+856166,@AppleSupport And that its best if i fill a police report,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+812219,"@AppleSupport 11.0.2 is killing my battery. I’m limiting use as much as possible, but the battery just doesn’t last. Please advise.",BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+849918,@AppleSupport how do I turn this location service off ? It’s alrwady off :( help. https://t.co/nDrWF5qRHl,OTHER,ANSWER,AI-assisted draft label — human review required.
+557773,Hey @AppleSupport the Podcasts app has a problem. All audios are accelerated .,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+759298,@301434 @AppleSupport Once guy on Apple support didn’t know what HomeKit is. No - they didn’t help and some functions just don’t work for me.,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+1053682,#hamradio I'm amused. kc4aaa is having trouble updating his iPad from the south pole. Fix it for him @AppleSupport ? ;),OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+909807,"@AppleSupport since updating to iOS 11, every time I tap near my home button on my i7+ I hear a clicking kinda noise... is this normal?!",HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+432382,@AppleSupport @217835 it is the worest update I have iphone 6S and 6S plus just updated them few days ago ... my next phone is not iphone,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+336634,@AppleSupport My Apple Watch did not survive a HIIT workout 😢,HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+1143586,@AppleSupport Thank you! I have macOS Sierra,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+148102,Nah ... it's OK! I *used* love @115858 having nearly every product ..but my new laptop has died and is only 3 months old. Can't get to an @AppleSupport store until Thursday as there are no appointments before then. This is the third laptop to break in 3 years. #notwhattheyusedtobe https://t.co/JtM6pIKByl,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+808491,"@AppleSupport 
+Do you have a desktop application for Windows10 which manages calender on iCloud?
+I don't like Web app.",ICLOUD_BACKUP,TROUBLESHOOT,AI-assisted draft label — human review required.
+784707,"dear @applesupport your #ios11 is making me go through soft reset every 30 minutes. kindly, wtf?",IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+537634,"@AppleSupport Dear @AppleSupport @116333 we’ve spoken in the past about my faulty iPhone 8 Plus and let me assure u that ur help was ZERO.
+Nonetheless, I have initiated legal action against Apple in the consumer court to save my rights. Rest assured, I am capable of helping myself from Apple",OTHER,ANSWER,AI-assisted draft label — human review required.
+1027573,hi @115858 @AppleSupport i'm gonna tweet you guys every single time my phone crashes from now on!!! look forward to hearing from me often! https://t.co/9U6m2qZiBi,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+557925,Hey @AppleSupport I just updated to iOS 11.2 and Do not have the Apple Pay Cash extension in my messages.,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+326450,"@193774 @AppleSupport Hola yo actualice igual y es una ruina, tengo un iPhone 6 y no dura nada con iOS 11 y con la beta 11.1",IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+1094139,@AppleSupport @378233 Hi apple I’m having the same problem and followed the same steps as Shannon can you help me out too,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+646863,My iPhone battery dropped 12% in 1 minute. Is this a joke? @AppleSupport get it together,BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+817070,@AppleSupport That’s what I figured. Thank you for your reply,OTHER,ANSWER,AI-assisted draft label — human review required.
+329169,@AppleSupport No I’m not using a case and I’ve tried that. The only way to get it working again is to turn the phone off and on again.,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+306091,"@AppleSupport @189080 Safari won’t open on my MacBook!! Like you can’t even click it, when you do it doesn’t do anything",APPS,TROUBLESHOOT,AI-assisted draft label — human review required.
+506576,"Every couple of minutes, my phone does a mini reset on its own, any idea @AppleSupport ? Screen grab of reset screen below. https://t.co/30KQpWBLt6",HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+1020320,"@AppleSupport You didn't.  You won't.  And now, you can't. https://t.co/ugI2JpqMWz",OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+151526,@AppleSupport Nope.  Not even slightly moving ??  Thing is I don’t know when it happens so can’t show anybody in Apple shop,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+1122791,@AppleSupport Thank you https://t.co/Ojpsyp1Fff,OTHER,ANSWER,AI-assisted draft label — human review required.
+148191,"@AppleSupport Am finding it impossible to cancel my subscription, it is stuck in a loop, can you PM me please? Thanks",OTHER,ESCALATE,AI-assisted draft label — human review required.
+709520,"@AppleSupport Here you go... 
+I’m not sure you’ll be able to tell from this video.. I’ve tried to 3D-Touch slowly so that you can see it transitioning ! https://t.co/3abonlYsHC",AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+415767,@AppleSupport @115858 fix iOS 11 so it’s compatible with CarPlay. Was working 100% before update now it’s useless,CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+937424,@AppleSupport 47 gb out of 128,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+1086849,@376369 @AppleSupport its active now. Try,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+243245,@115948 @AppleSupport I can’t play any songs on my phone because every song says this? I have to re-add them to play them https://t.co/c9e6CkBCMi,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+1083349,@AppleSupport unable to do anything on my phone... apps wont work with or without wifi cant update ios cant make calls,CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+481745,@115858 @AppleSupport you can’t be too happy your loyal customers like me are having to pay out the rest of my contract with a phone that barely works.,OTHER,ESCALATE,AI-assisted draft label — human review required.
+146715,"@AppleSupport As of yet no, as I only updated a few hrs ago. But I did test on the old version (set alarm 5min ahead) and the alarm worked. Overnight, phone on, alarm set and 3/5 mornings I didn’t go off which caused me to be newly late for work.",IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+962213,"My phone went from 100% to 86% while I opened my phone, went to twitter and wrote this tweet @AppleSupport",OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+382488,@AppleSupport why is it every time I update my phone it stops working properly?,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+954153,@AppleSupport desde q instale  el #iOS11 la batería se consume mucho+ rápido!Alguien q haya solucionado el problema? #iPhone6s #ios #iphone,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+219055,Pretty sure I broke my app store lol i’m pretty upset i can’t download or update apps #iOS11 @AppleSupport https://t.co/v8dzN5aKau,APPS,TROUBLESHOOT,AI-assisted draft label — human review required.
+1134154,@AppleSupport I applied for Apple Music Connect over a month ago with no response yet. Can I get an update?,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+1143567,"@389159 @AppleSupport It's killing me, my podcasts don't work properly either...",AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+340554,@AppleSupport  https://t.co/SaC3aQxkPq,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+814924,@AppleSupport I will have her update to latest iOS software and advise afterwards.,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+944948,@AppleSupport The problem is the money up front! I know I haven’t miss treated you product and it has failed spectacularly! Explain how this can happen?? https://t.co/XEzTrilJdA,OTHER,ESCALATE,AI-assisted draft label — human review required.
+993360,@AppleSupport @355319 They lyin,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+798868,"@AppleSupport Oh i know but when i select to turn it off, it turns off but if you go into the actual setting it still shows that its still only",OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+627973,@AppleSupport não to conseguindo comprar uma tela nova pro meu iPhone,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+622642,"@AppleSupport I tried recovery mode twice to update but it just stops and goes back to the Apple logo again. I was last using snapchat, went to the home screen then it froze",HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+199443,why does my music do this @AppleSupport https://t.co/NSwFA71x5c,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+560392,"Still convinced new updates are killing my previously great iPhone battery... @AppleSupport Drains super fast &amp; charged from 66% to 84% in 1.5hrs...on low battery mode, no apps running. https://t.co/VoZU6Z7chR",OTHER,ESCALATE,AI-assisted draft label — human review required.
+325895,@AppleSupport hey when I record a video the sound can’t playback. but it works fine when I use Siri. https://t.co/xmFWpTmUur,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+495150,@AppleSupport .Sometimes statusbar items get disappear https://t.co/aCuN7HI8C4,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+891096,@AppleSupport hey I am facing this problem on my iPad. Please help. https://t.co/yP5QuBnHu0,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+324532,$3000 iMac can't handle 64 audio tracks on Logic X is super disappointing. It's 2017 @115858 @AppleSupport,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+822215,@AppleSupport A lot like my phone is so slow since i updated and the battery dies in less than an hour and the apps stop working every five minutes,BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+81811,@116333  @AppleSupport i have bought 5s in march and my earphone is nt wrkng .service centre denying to replace .help pls rgds gurnam 9971269316,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+265046,"@AppleSupport ever since I’ve updated to the new iOS my WiFi has been shit on my iPhone &amp; iPad, but everything else I have connected is fine. When I FaceTime people it just says reconnecting or disconnects...",CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+1153873,@AppleSupport my phone is so slow so the new iOS update? Only on text messages though? Why is this?,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+959397,@AppleSupport iOS 11.0.2 still not completely disconnecting on WiFi. Is this intentional? Friend has same iOS and iPhone 8 plus,CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+1146109,Wtf. My new 4K Apple TV came with a USB cable instead of HDMI? Is this a packaging mistake @AppleSupport ?,HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+1095156,@AppleSupport And that link only had details on backing up not restoring content that iTunes deleted.,ICLOUD_BACKUP,TROUBLESHOOT,AI-assisted draft label — human review required.
+959332,@AppleSupport ive sent a DM.,OTHER,ESCALATE,AI-assisted draft label — human review required.
+754187,@AppleSupport iPhone 6S i’m signed into the AppStore aswell,APPS,TROUBLESHOOT,AI-assisted draft label — human review required.
+1019628,@AppleSupport 11.0.3. I have the screen lock on for vertical. After reboot it stops for a few hours then goes to it again,HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+894896,@AppleSupport since ios11 sound on music is awful. Any fix?,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+874804,@AppleSupport Dmphr7xbdnqt is the serial number of model mc744ll/a,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+161261,@AppleSupport Hi updated and restarted everything and still getting the same message?,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+484470,@AppleSupport Why does my iPhone's Bluetooth turn itself on every day at 5 AM Eastern Time (my time zone)?,CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+746994,@AppleSupport Apple Watch series 3 Cellular.,CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+559139,@AppleSupport I dm’d you and nobody ever responded,OTHER,ESCALATE,AI-assisted draft label — human review required.
+570886,"@AppleSupport But directly telling Siri to activate a scene like „activate good-night“ works fine. I’m using Siri with the German language tho. 
+But on the Apple-Discussions-Website, there is a huge ongoing thread about this issue…",OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+1149759,"@390561 @AppleSupport @115858 Look at my network, never seen that https://t.co/n4yrFrpr5M",CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+372889,@AppleSupport no (sorry for replying late),OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+337030,"Is there a way to attach imgs as attachments in mac mail?
+
+@AppleSupport",OTHER,ANSWER,AI-assisted draft label — human review required.
+159565,@AppleSupport  I've noticed a steady deterioration in the battery life of my iPad Air 2 running iOS 11. It's three years old. Is there a way to run a diagnostics test to determine the battery condition?,BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+667847,"My iPhone 7 has had horrendous battery life since upgrading to iOS 11. Upgraded to iOS 11.1.2 the other night and haven't had cell reception since. The update actually bricked my phone. Your QA is reckless, @115858 /cc @AppleSupport",BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+215314,@AppleSupport  yo can you respond my pictures and videos got deleted and nobody  touch my phone and my website data,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+148072,@AppleSupport how do I sign out my Apple ID account without having to verify my account? I know the password to my Apple ID I just can’t verify my account because I forgot my email password I literally had this since the first iPod Touch came out. I just want to sign out,APPLE_ID_ACCOUNT,TROUBLESHOOT,AI-assisted draft label — human review required.
+633868,Well done @115858 @AppleSupport since your update this morning I can’t play any videos... any ideas?,AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+240469,"@AppleSupport Thanks, I’ve updated again. It’s working for now but it did after the 11.0.1 update too, then reverted inexplicably.",IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+4897,@AppleSupport AFTER I️ updated my phone.,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+326448,"@AppleSupport desde la ultima segunda actualización mi iphone6 va fatal y se bebe la batería, es normal???",OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+455067,"@AppleSupport hey could you please check my iPhone 7? The battery drainage is pretty quick in the recent days not sure why.
+Thank you.",BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+242499,@AppleSupport Yes it does. I’ve tried restarting my phone multiple times and it still persists.,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+542271,"Apple have really dropped the ball, I now have a continually restarting iPhone due to a bug in iOS 11 that only starts happening on 2nd December. You really need to step up with Software testing @115858 @AppleSupport",IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+1064893,"@AppleSupport hi, I’m having issues with my MacBook Pro 15” (Late 2011)
+This vid should speak for itself https://t.co/MiIQGIYfgE",OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+652201,@AppleSupport y’all update needs fixing. My phone is worthless and won’t do a thing now! #angry #comeonapple,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+631857,"@AppleSupport 
+Just updated the cellular settings and now the iPhone is constantly “Searching” or even says “No Service” on the top of the screen... help?",CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+600433,"@AppleSupport is this real? Seems legit. Haha 
+
+-Sent from my @1647 Galaxy S7 Edge https://t.co/cqNqxHkk9o",OTHER,ANSWER,AI-assisted draft label — human review required.
+957203,@AppleSupport How am I supposed to remember a account 10 year old me made?,APPLE_ID_ACCOUNT,TROUBLESHOOT,AI-assisted draft label — human review required.
+1017149,"@AppleSupport hi, how to settle this??? Didnt get any text for verification code. Call also.... Help me plz https://t.co/PUkTfRB3hc",APPLE_ID_ACCOUNT,TROUBLESHOOT,AI-assisted draft label — human review required.
+602393,"Winter, the time of year when fraking Touch ID Stops working @AppleSupport https://t.co/9eFO3uS40u",HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+907506,@335503 @AppleSupport Me as well.,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+735948,@296038 @AppleSupport help this pipi out,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+617343,@AppleSupport May I know the status for the same.?,OTHER,ANSWER,AI-assisted draft label — human review required.
+552156,is anybody else's phone restarting every few seconds? @AppleSupport what's going on how do i fix this,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+610307,"@AppleSupport IOS 11 is the best software that came out, but god damn it drains battery. Any suggestions?",BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+1070507,"@AppleSupport IPhone 6, 16GB. It says storage is full, I even have a GB plan on iCloud. It says something named OTHER occupies 8 GB i erased all.",ICLOUD_BACKUP,TROUBLESHOOT,AI-assisted draft label — human review required.
+334142,@AppleSupport I recently switched and my music has the iCloud buttons,ICLOUD_BACKUP,TROUBLESHOOT,AI-assisted draft label — human review required.
+244204,"@AppleSupport after ios11,11.0.1 and ios11.0.2 Three to five times a day gets this!!  iPhone 7plus https://t.co/HgNMZbXLdP",IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+1024312,@AppleSupport Sure my iMac,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+1089272,@376975 @AppleSupport @288391 What is the solution ?,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+503608,"@AppleSupport No, I don't want to restart the whole machine! I still can do a stupid trick restarting the camera ""sudo killall VDCAssistant"" to get it working back from a sleep :/",HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+813350,"@AppleSupport Thanks, will give it a try - stand by!",OTHER,ANSWER,AI-assisted draft label — human review required.
+667063,@AppleSupport How about helping here instead of driving to a site?,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+598108,"Dear @115858 @AppleSupport why is it when a new IOS update comes out after new phone released, battery life NEVER stays the same. Dies faster. I have 95% on low power mode and now 89% from twitting this",BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+505201,@AppleSupport u guys gonna fix where my iphone x just chooses whatever it wants for my brightness or naw? https://t.co/FpDbsYdAna,HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+481773,@AppleSupport Just sent a DM,OTHER,ESCALATE,AI-assisted draft label — human review required.
+622714,@AppleSupport It started with 11,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+498586,@AppleSupport Updated yesterday. Not getting notifications and keeps freezing,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+797587,@AppleSupport Since the new update my settings have been changing (back lighting changes by itself. Goes to do not disturb).,IOS_SOFTWARE,TROUBLESHOOT,AI-assisted draft label — human review required.
+1059339,"@AppleSupport hey, I have iOS 11.0.3 and my phone freezes constantly and all my apps are up to date and freeze too. Fix this",APPS,TROUBLESHOOT,AI-assisted draft label — human review required.
+1057983,"i am so damn pissed, i recorded getters new song solo and half way thew it it just went black wtf @AppleSupport",AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+609761,@264964 @AppleSupport Es una garcha. Me exaspera.,OTHER,TROUBLESHOOT,AI-assisted draft label — human review required.
+506493,@AppleSupport I have PowerBeats 3 &amp; my Lexus NT all have had issues staying connecting to Bluetooth since I got my X. My Alta HR Fitbit won’t sync at all anymore even after restarting it. Please help.,CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+481795,@AppleSupport what is up with mail app? I delete old emails and they are still showing up in my inbox,APPS,TROUBLESHOOT,AI-assisted draft label — human review required.
+704138,"Hi @AppleSupport, how can I get rid of iOS11 off my 7? Alternatively, how can I get rid of the clusterfuck that is the new Podcast app?",AUDIO_MEDIA,TROUBLESHOOT,AI-assisted draft label — human review required.
+156213,"Just give me something to work with for my own expectations, @AppleSupport + @UPSHelp
+
+It’s beyond frustrating to be in the dark for a week on a item I’ve already been charged for, haven’t received, and is tethered to a ticking clock with the trade-in kit @115858 sent over",OTHER,ESCALATE,AI-assisted draft label — human review required.
+252097,@AppleSupport Contacted support again for the 2nd time. Was told there's no fix. I fixed it myself. Where's that job offer at? I have great people skills,OTHER,ANSWER,AI-assisted draft label — human review required.
+770099,"@AppleSupport Yep - we’re up and running. That or going to eat and letting it sit helped. Either way, it’s working now - thanks!",OTHER,ANSWER,AI-assisted draft label — human review required.
+768324,@AppleSupport the IOS 11.0.03 is the worst. Battery draining and generally poor performance. 🤦🏽‍♀️,BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+240109,@AppleSupport Yes; the quick on/off toggle in the ctl ctr slideup don't pwr up or dwn the wifi/bluetooth. I'm struggling to see how this is a good change?,CONNECTIVITY,TROUBLESHOOT,AI-assisted draft label — human review required.
+165746,"@AppleSupport Upgraded to #iphonex at @9542, tried to give old phone back &amp; was told had to send in box. Never got box; now trade-in ""cancelled"". Sharon M sends new box. When asked what happened if I get billed again, Sharon M says ""we can't help"".",OTHER,ESCALATE,AI-assisted draft label — human review required.
+1076418,@AppleSupport does this look like a genuine email? Pretty sure it’s fake. Thanks https://t.co/8GfOUrlKkg,OTHER,ANSWER,AI-assisted draft label — human review required.
+560426,@AppleSupport 8 plus and 11.1.1,OTHER,ANSWER,AI-assisted draft label — human review required.
+247564,@AppleSupport Just on the home screen for now,HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+545283,"@AppleSupport Every 1 minute this happening on my phone screen and restart everything. I did some research and so many people have the same issue. Any solve?
+
+İPhone 7 - iOS 11.1.2 https://t.co/iO9DICM9p6",HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.
+1003806,@AppleSupport I had to reset and resort the back up now it's fine but why there are so many issues with iOS 11,ICLOUD_BACKUP,TROUBLESHOOT,AI-assisted draft label — human review required.
+448388,"@221223 @115858 @AppleSupport Since recent update I’m facing such issues otherwise it was fantastic. Also, if I don’t use cell phone then battery could stay for a day or maybe more.",BATTERY,TROUBLESHOOT,AI-assisted draft label — human review required.
+274945,"My iPhone's stuck on the apple screen after it restarted because of the latest update.
+
+@AppleSupport",HARDWARE_CHARGING,TROUBLESHOOT,AI-assisted draft label — human review required.

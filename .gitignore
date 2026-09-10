@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Raw Kaggle dataset exceeds GitHub's 100MB file limit.
+# Download separately (see README) rather than committing it.
+data/raw/twcs.csv
